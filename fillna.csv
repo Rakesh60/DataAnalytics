@@ -1,0 +1,30 @@
+Product_id,Product_brand,Product_name,Product_sku,Product_retail_price,Product_cost,Product_weight,Recyclable,Low_fat
+1,Washington,Washington Berry Juice,90748583674,0.83,0.94,8.39,No,No
+2,Washington,Washington Mango Drink,96516502499,0.83,0.26,7.42,No,Yes
+3,Washington,Washington Strawberry Drink,58427771925,0.83,0.26,13.1,Yes,Yes
+4,Washington,Washington Cream Soda,64412155747,3.64,0.26,10.6,Yes,No
+5,Washington,Washington Diet Soda,85561191439,2.19,0.26,6.66,Yes,No
+6,Washington,Washington Cola,29804642796,0.98,0.37,15.8,No,No
+7,Washington,Washington Diet Cola,20191444754,2.61,,18,Yes,No
+8,Washington,Washington Orange Juice,89770532250,2.59,,8.97,Yes,No
+9,Washington,Washington Cranberry Juice,49395100474,0.83,0.77,7.14,No,No
+10,Washington,Washington Apple Juice,22114084362,1.42,,8.13,Yes,No
+11,Washington,Washington Apple Drink,17074288725,,1.65,20,No,Yes
+12,Jeffers,Jeffers Oatmeal,49031038880,1.54,,8.9,Yes,Yes
+13,Jeffers,Jeffers Corn Puffs,13229009509,,1.27,10.4,No,No
+14,Jeffers,Jeffers Wheat Puffs,92942813038,1.93,,21.6,Yes,Yes
+15,Jeffers,Jeffers Grits,26378549933,,1.08,21.3,No,Yes
+16,Blue Label,Blue Label Canned Beets,62908702492,,1.72,21.2,No,Yes
+17,Blue Label,Blue Label Creamed Corn,79484335780,2.99,,6.91,Yes,Yes
+18,Blue Label,Blue Label Canned String Beans,85252254605,2.67,,12.6,Yes,No
+,,,,,,,,
+20,Blue Label,Blue Label Canned Yams,22169209122,,0.92,21.3,No,Yes
+21,Blue Label,Blue Label Vegetable Soup,43318244814,,0.89,19.7,No,Yes
+22,Blue Label,Blue Label Canned Tomatos,77561696171,0.92,0.98,15,No,No
+23,Blue Label,Blue Label Noodle Soup,32829326987,1.75,,10.6,Yes,No
+24,Blue Label,Blue Label Regular Ramen Soup,12408414483,,0.52,12.8,No,Yes
+25,Blue Label,Blue Label Chicken Noodle Soup,62032982707,1.55,,9.48,Yes,Yes
+26,Blue Label,Blue Label Turkey Noodle Soup,34751966595,0.88,0.37,16.5,Yes,Yes
+27,Blue Label,Blue Label Beef Soup,29712170958,,1.11,11.2,No,Yes
+28,Blue Label,Blue Label Canned Peas,61668921113,3.91,,21.9,Yes,No
+29,Blue Label,Blue Label Chicken Ramen Soup,25866891741,1.72,0.62,17.1,No,No
